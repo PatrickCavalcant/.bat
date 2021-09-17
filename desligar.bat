@@ -1,0 +1,1 @@
+shutdown -s -t 38500
