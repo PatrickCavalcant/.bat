@@ -1,3 +1,0 @@
-Usuario\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
-
-C:\Users\patrick.moraes\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
